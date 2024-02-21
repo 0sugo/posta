@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T20:39:33.751Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="i1I7Ahk_5dpprouyzibw" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T20:42:15.348Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zXvDJWL3ue0o3DHs4hcs" version="23.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="974" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,16 +64,16 @@
         <mxCell id="cqRgWEPfbCGdJ9D6sYik-25" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cqRgWEPfbCGdJ9D6sYik-22">
           <mxGeometry x="360" y="30" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cqRgWEPfbCGdJ9D6sYik-31" value="Employee" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="cqRgWEPfbCGdJ9D6sYik-31" value="Supervisor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="355" width="790" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cqRgWEPfbCGdJ9D6sYik-32" value="Appraises performance of employees" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cqRgWEPfbCGdJ9D6sYik-31">
+        <mxCell id="cqRgWEPfbCGdJ9D6sYik-32" value="Analyses employees performance against pre-defined criteria" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cqRgWEPfbCGdJ9D6sYik-31">
           <mxGeometry x="50" y="30" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cqRgWEPfbCGdJ9D6sYik-33" value="Analyses performance against pre defined criteria" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cqRgWEPfbCGdJ9D6sYik-31">
+        <mxCell id="cqRgWEPfbCGdJ9D6sYik-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Rates,Comments and sends feedback to employee&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cqRgWEPfbCGdJ9D6sYik-31">
           <mxGeometry x="190" y="30" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="cqRgWEPfbCGdJ9D6sYik-34" value="Rates,Comments and sends feedback to employee" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cqRgWEPfbCGdJ9D6sYik-31">
+        <mxCell id="cqRgWEPfbCGdJ9D6sYik-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cqRgWEPfbCGdJ9D6sYik-31">
           <mxGeometry x="330" y="30" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cqRgWEPfbCGdJ9D6sYik-35" value="One to one meeting with employee" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="cqRgWEPfbCGdJ9D6sYik-31">
