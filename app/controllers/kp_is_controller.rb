@@ -1,0 +1,2 @@
+class KpIsController < ApplicationController
+end
