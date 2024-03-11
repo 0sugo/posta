@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  objective: one
+  baseline: 1
+  annual_target: 1
+  weighted_rating: 1.5
+  initiatives: MyText
+  name: MyString
+  supervisor_comment: MyText
+  employee_comment: MyText
+
+two:
+  objective: two
+  baseline: 1
+  annual_target: 1
+  weighted_rating: 1.5
+  initiatives: MyText
+  name: MyString
+  supervisor_comment: MyText
+  employee_comment: MyText
