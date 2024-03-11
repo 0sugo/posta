@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pf_no: 
+  job_grade_period: MyString
+  job_grade: MyString
+  employment_date: 2024-03-01
+  department: MyString
+  supervisor_title: MyString
+  supervisor_name: one
+  rank: MyString
+  rating: 1
+
+two:
+  pf_no: 
+  job_grade_period: MyString
+  job_grade: MyString
+  employment_date: 2024-03-01
+  department: MyString
+  supervisor_title: MyString
+  supervisor_name: two
+  rank: MyString
+  rating: 1
